@@ -33,3 +33,15 @@ Install dependencies using npm install.
 Run the app on a simulator or physical device using npm start or react-native run-android / react-native run-ios.
 
 Screenshots
+
+![WhatsApp Image 2024-07-10 at 5 48 15 AM](https://github.com/Allaman-da/rn-assignment7-11060523/assets/145779487/4749193b-edd2-4fd6-b043-237dfa0622c9)
+
+![WhatsApp Image 2024-07-10 at 5 48 16 AM](https://github.com/Allaman-da/rn-assignment7-11060523/assets/145779487/91f7f649-db85-484d-999d-ec6e5e55a8f0)
+
+![WhatsApp Image 2024-07-10 at 5 48 17 AM](https://github.com/Allaman-da/rn-assignment7-11060523/assets/145779487/5d62d13f-268a-41dd-936c-712597e9263b)
+
+![WhatsApp Image 2024-07-10 at 5 48 16 AM (1)](https://github.com/Allaman-da/rn-assignment7-11060523/assets/145779487/d3ae12a9-c836-477d-89fc-a6f266119552)
+
+
+
+
