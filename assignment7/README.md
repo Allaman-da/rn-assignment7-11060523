@@ -36,7 +36,8 @@ Screenshots
 
 ![WhatsApp Image 2024-07-10 at 5 48 15 AM](https://github.com/Allaman-da/rn-assignment7-11060523/assets/145779487/4749193b-edd2-4fd6-b043-237dfa0622c9)
 
-![WhatsApp Image 2024-07-10 at 5 48 16 AM](https://github.com/Allaman-da/rn-assignment7-11060523/assets/145779487/91f7f649-db85-484d-999d-ec6e5e55a8f0)
+![WhatsApp Image 2024-07-10 at 6 10 54 AM](https://github.com/Allaman-da/rn-assignment7-11060523/assets/145779487/12aa30b2-2575-4e5b-8790-ab29542b0117)
+
 
 ![WhatsApp Image 2024-07-10 at 5 48 17 AM](https://github.com/Allaman-da/rn-assignment7-11060523/assets/145779487/5d62d13f-268a-41dd-936c-712597e9263b)
 
