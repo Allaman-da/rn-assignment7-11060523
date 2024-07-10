@@ -232,7 +232,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     height: '100%',
     padding: 20,
-    top: 25,
+    
   },
   closeButton: {
     alignSelf: 'flex-start',
@@ -240,6 +240,7 @@ const styles = StyleSheet.create({
   closeText: {
     fontSize: 18,
     fontWeight: 'bold',
+    top: 20,
   },
   menuTitle: {
     fontSize: 15,
@@ -249,11 +250,13 @@ const styles = StyleSheet.create({
     textDecorationColor: 'orange',
     textDecorationStyle: 'solid',
     textDecorationbottom: 50,
+     top: 20,
   },
   menuItem: {
     fontSize: 18,
     marginVertical: 5,
     marginBottom: 30,
+     top: 20,
   },
   modalOverlay: {
     flex: 1,
